@@ -1,0 +1,35 @@
+[
+
+  {
+
+    "name": "post_content",
+
+    "type": "text",
+
+    "placeholder": "打卡",
+
+    "label": "每日轨迹发帖",
+
+    "validation": "required",
+
+    "help": "默认：我的轨迹。"
+
+  },
+
+  {
+
+    "name": "post2_content",
+
+    "type": "text",
+
+    "placeholder": "打卡",
+
+    "label": "吃喝玩乐发帖",
+
+    "validation": "required",
+
+    "help": "默认：今日玩乐。"
+
+  }
+
+]
