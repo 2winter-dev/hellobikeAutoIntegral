@@ -1,0 +1,2 @@
+# hellobikeAutoIntegral
+hamibot哈啰电动车主自动领积分任务
